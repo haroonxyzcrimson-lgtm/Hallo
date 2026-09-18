@@ -31,3 +31,18 @@ Hallo world
 <p>this is my first project on github. </p>
 </body>
 </html>
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
